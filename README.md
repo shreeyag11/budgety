@@ -12,4 +12,5 @@
 * It keep tracks of percentage expense done with respect to the income.
 
 I am open to any suggestions about a code and how the app can be improved.
+
 Follow the link and start saving money [Budgety](https://shreeyag11.github.io/budgety/) :money_with_wings:
